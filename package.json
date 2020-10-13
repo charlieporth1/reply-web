@@ -23,7 +23,7 @@
     "wordgenerator": "0.0.1",
     "oauth": "~0.9.10",
     "async": "~0.2.6",
-    "moment": "~2.0.0"
+    "moment": "~2.29.1"
   },
   "devDependencies": {},
   "scripts": {
