@@ -14,7 +14,7 @@
     "password-hash": "~1.2.1",
     "underscore": "~1.4.4",
     "wrench": "~1.4.4",
-    "mongodb": "~1.2.14",
+    "mongodb": "~3.6.2",
     "async-resource": "0.0.1",
     "toobusy": "~0.2.3",
     "passport-twitter": "~0.1.4",
