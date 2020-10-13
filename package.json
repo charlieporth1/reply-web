@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "replybot": "~0.0.1",
-    "express": "~3.1.0",
+    "express": "~4.17.1",
     "ecstatic": "~0.4.1",
     "passport": "~0.1.16",
     "config-heroku": "~0.1.1a",
